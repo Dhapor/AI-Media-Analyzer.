@@ -1,4 +1,4 @@
-````markdown
+
 # AI Media Analyzer
 
 Goal-driven, multimodal media analysis agent using AI (Google Gemini + Whisper + document parsing).
