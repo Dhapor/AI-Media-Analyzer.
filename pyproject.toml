@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "gemini-agent"
+version = "0.1.0"
+description = "Goal-driven multimodal agent with Gemini"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
