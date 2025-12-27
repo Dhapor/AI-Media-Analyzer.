@@ -33,28 +33,12 @@ streamlit run streamlit_app/app.py
 
 ---
 
-## Quick Smoke Test
-
-```bash
-python scripts/run_smoke.py
-```
-
-This produces a small sample analysis using mock or local AI agents.
-
----
-
 ## Testing
 
 * Install test dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
-
-* Run tests with pytest:
-
-```bash
-pytest -q
 ```
 
 > Using a virtual environment is recommended to avoid installing packages globally.
@@ -95,12 +79,4 @@ pytest -q
 * Preview images, first-frame videos, and text snippets.
 * Automatic **summarization and analysis** of media content.
 * Clean and intuitive UI with results displayed in a single column.
-
----
-
-## License
-
-MIT License
-
-```
 ```
